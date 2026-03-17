@@ -1,3 +1,2 @@
 # guess-the-number
-School asignment
-Just playing around with `MIPS assembly` language. This is a simple 'guess the number' game.
+School asignment for `MIPS assembly` language. This is a simple 'guess the number' game.
